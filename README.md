@@ -9,11 +9,6 @@ Hello, I'm Faisal.	Data Engineer/ Scientist with hands-on experience and knowled
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
-### 🛠️ Tools
-
-- Language: Python
-- Database:  PostgreSQL, Google BigQuery,, MySQL
-- Visualization: PowerBI
 
 ### 👋🏻 Connect with Me
 
