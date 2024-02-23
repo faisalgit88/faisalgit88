@@ -7,7 +7,7 @@ Hello, I'm Faisal.	Data Engineer/ Scientist with hands-on experience and knowled
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/faisalgit88/Portfolio/blob/main/README.md).
 
 
 ### 👋🏻 Connect with Me
