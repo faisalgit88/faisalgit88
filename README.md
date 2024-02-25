@@ -2,7 +2,7 @@
 
 
 
-Hello, I'm Faisal.	Data Engineer/ Scientist with hands-on experience and knowledge of Data Analytics (data exploration/ data cleansing in Hadoop framework and Machine Learning (regression, classification and clustering) in predictive modeling. Proficient in sentiment analysis using Natural Language Processing (NLP) and recommender system. 
+Hello, I'm Faisal.	Data Engineer/ Scientist with hands-on experience and knowledge of Data Analytics (data exploration/ data cleansing in Hadoop framework and Machine Learning (regression, classification and clustering) in predictive modeling. Proficient in machine learning and also sentiment analysis using Natural Language Processing (NLP) and recommender system. 
 
 
 ### 📚 Projects
